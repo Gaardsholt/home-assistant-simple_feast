@@ -1,0 +1,8 @@
+{
+    "domain": "simple_feast",
+    "name": "Simple Feast",
+    "documentation": "https://github.com/Gaardsholt/home-assistant-simple_feast",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": []
+  }
